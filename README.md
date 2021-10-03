@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @huangderful doing CS @ UCSB
 
-Most of my stuff on this repo is MC plugins and a discord bot :) 
-Will post more of my projects as I go
+My stuff here is MC plugins and a discord bot :) 
+Will post more of my projects as I go along
+
+Currently Working on: ||Hidden||
 
 LinkedIn => https://www.linkedin.com/in/richard-huang-a0b54a215/
 <!---
