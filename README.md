@@ -3,7 +3,7 @@
 My stuff here is MC plugins and a discord bot :) 
 Will post more of my projects as I go along
 
-Currently Working on: GTONexus
+Currently Working on: GTONexus => gtonexus.com
 
 LinkedIn => https://www.linkedin.com/in/huangderful/
 <!---
